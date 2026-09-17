@@ -2450,17 +2450,17 @@
       "action": "section"
     },
     {
-      "id": "more",
-      "label": "Mais",
-      "icon": "fa-bars",
-      "action": "more"
-    },
-    {
       "id": "instagram",
       "label": "Instagram",
       "icon": "fa-instagram fab",
       "action": "section"
+    },
+    {
+      "id": "more",
+      "label": "Mais",
+      "icon": "fa-bars",
+      "action": "more"
     }
   ],
-  "autoMaintenanceUntil": 1789676506360
+  "autoMaintenanceUntil": 1789676508519
 }
