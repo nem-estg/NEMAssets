@@ -2444,12 +2444,6 @@
       "action": "section"
     },
     {
-      "id": "academic",
-      "label": "Apoio",
-      "icon": "fa-book-open",
-      "action": "section"
-    },
-    {
       "id": "instagram",
       "label": "Instagram",
       "icon": "fa-instagram fab",
@@ -2462,5 +2456,5 @@
       "action": "more"
     }
   ],
-  "autoMaintenanceUntil": 1789676508519
+  "autoMaintenanceUntil": 1789676510605
 }
