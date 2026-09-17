@@ -2423,5 +2423,38 @@
       "createdAt": 1788808026903,
       "updatedAt": 1789425325461
     }
-  ]
+  ],
+  "pwaNavItems": [
+    {
+      "id": "about",
+      "label": "Sobre",
+      "icon": "fa-info-circle",
+      "action": "section"
+    },
+    {
+      "id": "calendar",
+      "label": "Atividades",
+      "icon": "fa-calendar-alt",
+      "action": "section"
+    },
+    {
+      "id": "merch",
+      "label": "Merch",
+      "icon": "fa-tshirt",
+      "action": "section"
+    },
+    {
+      "id": "academic",
+      "label": "Apoio",
+      "icon": "fa-book-open",
+      "action": "section"
+    },
+    {
+      "id": "more",
+      "label": "Mais",
+      "icon": "fa-bars",
+      "action": "more"
+    }
+  ],
+  "autoMaintenanceUntil": 1789675003690
 }
