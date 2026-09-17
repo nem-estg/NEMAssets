@@ -2454,7 +2454,13 @@
       "label": "Mais",
       "icon": "fa-bars",
       "action": "more"
+    },
+    {
+      "id": "instagram",
+      "label": "Instagram",
+      "icon": "fa-instagram fab",
+      "action": "section"
     }
   ],
-  "autoMaintenanceUntil": 1789675003690
+  "autoMaintenanceUntil": 1789676506360
 }
