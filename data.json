@@ -25,7 +25,7 @@
     "instagram": "https://www.instagram.com/nem_estg/",
     "email": "nem.estg@ulo.pt",
     "whatsapp": "",
-    "linktree": "https://linktr.ee/nem.estg?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnu2WHlgQ0pbHXek7cYRxc3I-uwePlFUj3PgH4blgKNJ4vIKV9KbFqtmcOqNw_aem_V5zjqOAy1mlC0Rr4TByZGQ"
+    "linktree": ""
   },
   "sections": {
     "about": true,
@@ -2455,5 +2455,6 @@
       "icon": "fa-bars",
       "action": "more"
     }
-  ]
+  ],
+  "autoMaintenanceUntil": 1789733879403
 }
