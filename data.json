@@ -553,7 +553,7 @@
       "status": "AGENDADO",
       "location": "Adega do Mouzinho",
       "formUrl": "",
-      "price": "X",
+      "price": "18",
       "cardColor": "#1a0d00",
       "bgImage": "Vetorizad_Mec.svg",
       "nemLogo": "Vetorizado.svg",
@@ -2472,5 +2472,5 @@
       "action": "more"
     }
   ],
-  "autoMaintenanceUntil": 1789847382885
+  "autoMaintenanceUntil": 1789847391789
 }
