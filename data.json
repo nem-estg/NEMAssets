@@ -546,13 +546,20 @@
       "dateISOEnd": "2026-09-25T02:30"
     },
     {
-      "type": "regular",
-      "title": "Novo Evento",
+      "type": "jantar",
+      "title": "Jantar de Curso",
       "date": "A anunciar",
       "dateISO": "",
       "status": "A anunciar",
-      "location": "Local a definir",
-      "formUrl": ""
+      "location": "Adega do Mouzinho",
+      "formUrl": "",
+      "price": "18",
+      "cardColor": "#1a0d00",
+      "bgImage": "Vetorizad_Mec.svg",
+      "nemLogo": "Vetorizado.svg",
+      "partnerLogos": [],
+      "tokenInfo": "",
+      "weekDates": ""
     }
   ],
   "announcementBanner": {
@@ -2465,5 +2472,5 @@
       "action": "more"
     }
   ],
-  "autoMaintenanceUntil": 1789826605780
+  "autoMaintenanceUntil": 1789826608862
 }
