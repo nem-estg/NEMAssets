@@ -548,8 +548,8 @@
     {
       "type": "jantar",
       "title": "JANTAR DE CURSO",
-      "date": "A anunciar",
-      "dateISO": "",
+      "date": "01/10/2026",
+      "dateISO": "2026-10-01T20:00",
       "status": "AGENDADO",
       "location": "Adega do Mouzinho",
       "formUrl": "",
@@ -2472,5 +2472,5 @@
       "action": "more"
     }
   ],
-  "autoMaintenanceUntil": 1789847374661
+  "autoMaintenanceUntil": 1789847382885
 }
