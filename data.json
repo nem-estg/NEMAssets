@@ -547,7 +547,7 @@
     },
     {
       "type": "jantar",
-      "title": "Jantar de Curso",
+      "title": "JANTAR DE CURSO",
       "date": "A anunciar",
       "dateISO": "",
       "status": "A anunciar",
@@ -2472,5 +2472,5 @@
       "action": "more"
     }
   ],
-  "autoMaintenanceUntil": 1789826608862
+  "autoMaintenanceUntil": 1789826611063
 }
