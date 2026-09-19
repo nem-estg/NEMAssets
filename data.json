@@ -103,7 +103,8 @@
     "token": "",
     "autoPosts": [],
     "lastFetched": "",
-    "appSecret": ""
+    "appSecret": "3f1e09c1b4d0ad861f3021b0a34fd273",
+    "appId": "1466754955505744"
   },
   "githubUploadOwner": "Antniom",
   "githubUploadRepo": "NEMAssets",
@@ -2472,5 +2473,5 @@
       "action": "more"
     }
   ],
-  "autoMaintenanceUntil": 1789847396466
+  "autoMaintenanceUntil": 1789850001368
 }
