@@ -564,7 +564,7 @@
   ],
   "announcementBanner": {
     "active": true,
-    "text": "Não percas as novidades no inicio do ano",
+    "text": "Sweats e Casacos já disponíveis!",
     "url": "https://www.instagram.com/nem_estg/"
   },
   "academicSupport": {
@@ -2471,5 +2471,6 @@
       "icon": "fa-bars",
       "action": "more"
     }
-  ]
+  ],
+  "autoMaintenanceUntil": 1789831416693
 }
