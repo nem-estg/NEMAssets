@@ -544,6 +544,15 @@
       "cardColor": "#1a1a2e",
       "bgImage": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/events/events_1788483932391_461.png",
       "dateISOEnd": "2026-09-25T02:30"
+    },
+    {
+      "type": "regular",
+      "title": "Novo Evento",
+      "date": "A anunciar",
+      "dateISO": "",
+      "status": "A anunciar",
+      "location": "Local a definir",
+      "formUrl": ""
     }
   ],
   "announcementBanner": {
@@ -2455,5 +2464,6 @@
       "icon": "fa-bars",
       "action": "more"
     }
-  ]
+  ],
+  "autoMaintenanceUntil": 1789826605780
 }
