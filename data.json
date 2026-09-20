@@ -551,7 +551,7 @@
       "weekDates": "",
       "cardColor": "#1a1a2e",
       "bgImage": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/events/events_1788483932391_461.png",
-      "dateISOEnd": "2026-09-25T02:30"
+      "dateISOEnd": "2026-09-25T01:30"
     },
     {
       "type": "jantar",
@@ -2482,5 +2482,5 @@
       "action": "more"
     }
   ],
-  "autoMaintenanceUntil": 1789936738717
+  "autoMaintenanceUntil": 1789942868919
 }
