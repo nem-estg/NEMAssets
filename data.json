@@ -484,7 +484,7 @@
     },
     {
       "type": "convivio",
-      "title": "CONVÍVIO",
+      "title": "CONVÍVIO COM EGI",
       "date": "22/09/2026",
       "dateISO": "2026-09-22T22:00",
       "status": "Agendado",
@@ -2477,5 +2477,6 @@
       "icon": "fa-bars",
       "action": "more"
     }
-  ]
+  ],
+  "autoMaintenanceUntil": 1789930600803
 }
