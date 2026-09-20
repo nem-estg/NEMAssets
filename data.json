@@ -491,7 +491,7 @@
       "location": "Merendeira da Sé",
       "formUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=rYVrU0ikhkGpr-PMrTMCxXndqcIAr3ZDuS9i_dY7NKNUMEpYUTQ5OVU1T0MxMzJDRTBZWU1XWTZXRC4u",
       "nemLogo": "Vetorizado.svg",
-      "guestLogo": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/logos/logos_1789936500747_4105.png",
+      "guestLogo": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/logos/logos_1789936512096_8615.png",
       "barLogo": "https://cdn.jsdelivr.net/gh/Antniom/NEMAssets@main/assets/images/bars/bars_1772684282949_667.svg",
       "tokenInfo": "1 senha - 2,5€ - 3 imperiais/shots da casa ou 2 sangrias/sidras/shots ou 1 bifana",
       "price": "",
@@ -515,7 +515,8 @@
       "price": "",
       "weekDates": "",
       "cardColor": "#1a1a2e",
-      "bgImage": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/events/events_1788483949045_375.png"
+      "bgImage": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/events/events_1788483949045_375.png",
+      "dateISOEnd": "2026-10-09T01:30"
     },
     {
       "type": "convivio",
@@ -2480,5 +2481,5 @@
       "action": "more"
     }
   ],
-  "autoMaintenanceUntil": 1789936620259
+  "autoMaintenanceUntil": 1789936631635
 }
