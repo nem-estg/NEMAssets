@@ -560,14 +560,16 @@
       "dateISO": "2026-10-01T20:00",
       "status": "AGENDADO",
       "location": "Adega do Mouzinho",
-      "formUrl": "",
+      "formUrl": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=rYVrU0ikhkGpr-PMrTMCxXndqcIAr3ZDuS9i_dY7NKNUMEpYUTQ5OVU1T0MxMzJDRTBZWU1XWTZXRC4u",
       "price": "18",
       "cardColor": "#1a0d00",
       "bgImage": "Vetorizad_Mec.svg",
       "nemLogo": "Vetorizado.svg",
       "partnerLogos": [],
       "tokenInfo": "",
-      "weekDates": ""
+      "weekDates": "",
+      "formIsEmbed": false,
+      "formRaw": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=rYVrU0ikhkGpr-PMrTMCxXndqcIAr3ZDuS9i_dY7NKNUMEpYUTQ5OVU1T0MxMzJDRTBZWU1XWTZXRC4u"
     }
   ],
   "announcementBanner": {
@@ -2480,5 +2482,5 @@
       "action": "more"
     }
   ],
-  "autoMaintenanceUntil": 1789936680543
+  "autoMaintenanceUntil": 1789936690739
 }
