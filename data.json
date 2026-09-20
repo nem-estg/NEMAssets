@@ -79,6 +79,11 @@
       "src": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/partner_courses/partner_courses_1788054658913_100.png",
       "name": "Branco Preenchido",
       "addedAt": 1788054659862
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/partner_courses/partner_courses_1789930277801_595.jpg",
+      "name": "IMG_2138",
+      "addedAt": 1789930278838
     }
   ],
   "libraryBars": [
@@ -486,7 +491,7 @@
       "location": "Merendeira da Sé",
       "formUrl": "",
       "nemLogo": "Vetorizado.svg",
-      "guestLogo": "",
+      "guestLogo": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/partner_courses/partner_courses_1789930277801_595.jpg",
       "barLogo": "https://cdn.jsdelivr.net/gh/Antniom/NEMAssets@main/assets/images/bars/bars_1772684282949_667.svg",
       "tokenInfo": "1 senha - 2,5€ - 3 imperiais/shots da casa ou 2 sangrias/sidras/shots ou 1 bifana",
       "price": "",
@@ -2473,5 +2478,5 @@
       "action": "more"
     }
   ],
-  "autoMaintenanceUntil": 1789923700007
+  "autoMaintenanceUntil": 1789930398859
 }
