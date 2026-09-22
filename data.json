@@ -104,7 +104,7 @@
     "https://www.instagram.com/p/DZFiv1RNCmy/"
   ],
   "instagramConfig": {
-    "mode": "auto",
+    "mode": "manual",
     "token": "",
     "autoPosts": [],
     "lastFetched": "",
@@ -2482,5 +2482,6 @@
       "icon": "fa-bars",
       "action": "more"
     }
-  ]
+  ],
+  "autoMaintenanceUntil": 1790098202909
 }
