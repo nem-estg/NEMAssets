@@ -593,6 +593,15 @@
         "description": "Acede à pasta partilhada do NEM com apontamentos, exames anteriores, formulários e guiões de laboratório organizados por unidade curricular.",
         "buttonLabel": "Aceder à Pasta Partilhada",
         "active": true
+      },
+      {
+        "id": "drive_1790105955513",
+        "name": "Drive do David Gemard",
+        "category": "Licenciatura Engenharia Mecânica",
+        "url": "https://myipleiria-my.sharepoint.com/:f:/g/personal/2222208_ulo_pt/IgA5_BXNN1pAQZ4Nm3Od-ZJMAWHphFLuNY07OotZEd08IFc?e=SlMYkC",
+        "description": "Apontamentos e Trabalhos realizados pelo David Gemard!",
+        "buttonLabel": "Aceder à Drive",
+        "active": true
       }
     ]
   },
@@ -2493,5 +2502,6 @@
       "icon": "fa-bars",
       "action": "more"
     }
-  ]
+  ],
+  "autoMaintenanceUntil": 1790106075515
 }
