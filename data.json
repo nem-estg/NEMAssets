@@ -583,7 +583,27 @@
     "title": "Apoio Académico",
     "description": "Acede à pasta partilhada do NEM com apontamentos, exames anteriores, formulários e guiões de laboratório organizados por unidade curricular.",
     "driveUrl": "https://myipleiria-my.sharepoint.com/:f:/r/personal/nem_estg_ulo_pt/Documents/Engenharia%20Mec%C3%A2nica?d=w8b0d098b4c8b4fa886a96ac8d2ce6142&csf=1&web=1&e=6lcbnH",
-    "buttonLabel": "Aceder à Pasta Partilhada"
+    "buttonLabel": "Aceder à Pasta Partilhada",
+    "drives": [
+      {
+        "id": "drive-lem-1",
+        "name": "Drive — Licenciatura em Engenharia Mecânica",
+        "description": "Apontamentos, exames anteriores, formulários e guiões de laboratório do 1º ao 3º ano.",
+        "url": "",
+        "category": "Licenciatura Engenharia Mecânica",
+        "buttonLabel": "Aceder ao Drive",
+        "active": true
+      },
+      {
+        "id": "drive-mecdp-1",
+        "name": "Drive — Mestrado em Engenharia da Conceção e Desenvolvimento de Produto",
+        "description": "Artigos, apresentações, apontamentos e recursos das unidades curriculares de mestrado.",
+        "url": "",
+        "category": "Mestrado de Engenharia da concepção e desenvimento do produto",
+        "buttonLabel": "Aceder ao Drive",
+        "active": false
+      }
+    ]
   },
   "pwaIcon": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/icons/icons_1788375799325_748.png",
   "maintenanceMode": false,
@@ -2482,5 +2502,6 @@
       "icon": "fa-bars",
       "action": "more"
     }
-  ]
+  ],
+  "autoMaintenanceUntil": 1790100648370
 }
