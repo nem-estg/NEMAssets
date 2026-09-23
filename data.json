@@ -484,25 +484,6 @@
     },
     {
       "type": "convivio",
-      "title": "CONVÍVIO COM EGI",
-      "date": "22/09/2026",
-      "dateISO": "2026-09-22T22:00",
-      "status": "Agendado",
-      "location": "Merendeira da Sé",
-      "formUrl": "",
-      "nemLogo": "Vetorizado.svg",
-      "guestLogo": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/partner_courses/partner_courses_1789936480203_284.png",
-      "barLogo": "https://cdn.jsdelivr.net/gh/Antniom/NEMAssets@main/assets/images/bars/bars_1772684282949_667.svg",
-      "tokenInfo": "1 senha - 2,5€ - 3 imperiais/shots da casa ou 2 sangrias/sidras/shots ou 1 bifana",
-      "price": "",
-      "weekDates": "",
-      "cardColor": "#1a1a2e",
-      "formIsEmbed": false,
-      "formRaw": "",
-      "dateISOEnd": "2026-09-23T01:30"
-    },
-    {
-      "type": "convivio",
       "title": "Convívio",
       "date": "08/10/2026",
       "dateISO": "2026-10-08T22:00",
@@ -2502,5 +2483,6 @@
       "icon": "fa-bars",
       "action": "more"
     }
-  ]
+  ],
+  "autoMaintenanceUntil": 1790186266333
 }
