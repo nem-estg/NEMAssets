@@ -2484,11 +2484,6 @@
       "action": "more"
     }
   ],
-  "vapidKeys": {
-    "publicKey": "BCfx02QZffN5tAJkELOiAyaCnjpLCXfSRVYv3kMAv4a7h3eTcowqxOYGDo04L0zHb-O6CboVXAYNbDgl4W5N8Hs",
-    "privateKey": "6sjZdQgL0TWd2UkmRdjkWv5neNkKmOpygSegRRvCiRM",
-    "generatedAt": 1790692927862
-  },
   "pushSubscriptions": [
     {
       "endpoint": "https://web.push.apple.com/QPSksx688P5yoNkhdDdWlNMyo94e1eIQol_7JZBX0R6uTkXahz47MWAvbeEniXwe9myDBGfGCTogvPLk9mmYW0JxLhGTcDB_hvuuNCn0rx3hW9dwWmnmWgffww_ZXXhJldsn9QR_BwThWb0onSxpgQtDgCJ_iyIM2VHo1rpdBB0",
