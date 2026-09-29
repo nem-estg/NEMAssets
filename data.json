@@ -2518,19 +2518,36 @@
       "createdAt": 1790693593783
     }
   ],
-  "pushNotificationHistory": [],
+  "pushNotificationHistory": [
+    {
+      "id": "notif_1790703035950_0ohz",
+      "title": "🍽️ Jantar de Curso: Inscrições abertas!",
+      "body": "As inscrições para o Jantar de Curso de Mecânica já abriram! Garante o teu lugar à mesa no formulário antes que esgote.",
+      "url": "/#atividades",
+      "image": null,
+      "icon": "/icon-192.png",
+      "tag": "jantar-open-1790703035950",
+      "sentAt": 1790703035951,
+      "sentDate": "2026-09-29T17:30:36.009Z",
+      "recipientsCount": 2,
+      "successCount": 0,
+      "failedCount": 2,
+      "isAuto": true
+    }
+  ],
   "latestBroadcastNotification": {
-    "id": "notif_1790701630822",
-    "title": "👕 Novo Merch Oficial NEM Disponível!",
-    "body": "As novas sweats e t-shirts do núcleo chegaram. Explora a coleção e encomenda online.",
-    "url": "/#merch",
+    "id": "notif_1790703035950_0ohz",
+    "title": "🍽️ Jantar de Curso: Inscrições abertas!",
+    "body": "As inscrições para o Jantar de Curso de Mecânica já abriram! Garante o teu lugar à mesa no formulário antes que esgote.",
+    "url": "/#atividades",
     "image": null,
     "icon": "/icon-192.png",
-    "tag": "nem-1790701630822",
-    "sentAt": 1790701630822,
-    "sentDate": "2026-09-29T17:07:11.009Z",
+    "tag": "jantar-open-1790703035950",
+    "sentAt": 1790703035951,
+    "sentDate": "2026-09-29T17:30:36.009Z",
     "recipientsCount": 2,
-    "successCount": 2,
-    "failedCount": 0
+    "successCount": 0,
+    "failedCount": 2,
+    "isAuto": true
   }
 }
