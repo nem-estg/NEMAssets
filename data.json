@@ -2523,5 +2523,35 @@
       "id": "sub_1790693593783_qo5mr",
       "createdAt": 1790693593783
     }
-  ]
+  ],
+  "pushNotificationHistory": [
+    {
+      "id": "notif_1790701630822",
+      "title": "👕 Novo Merch Oficial NEM Disponível!",
+      "body": "As novas sweats e t-shirts do núcleo chegaram. Explora a coleção e encomenda online.",
+      "url": "/#merch",
+      "image": null,
+      "icon": "/icon-192.png",
+      "tag": "nem-1790701630822",
+      "sentAt": 1790701630822,
+      "sentDate": "2026-09-29T17:07:11.009Z",
+      "recipientsCount": 2,
+      "successCount": 2,
+      "failedCount": 0
+    }
+  ],
+  "latestBroadcastNotification": {
+    "id": "notif_1790701630822",
+    "title": "👕 Novo Merch Oficial NEM Disponível!",
+    "body": "As novas sweats e t-shirts do núcleo chegaram. Explora a coleção e encomenda online.",
+    "url": "/#merch",
+    "image": null,
+    "icon": "/icon-192.png",
+    "tag": "nem-1790701630822",
+    "sentAt": 1790701630822,
+    "sentDate": "2026-09-29T17:07:11.009Z",
+    "recipientsCount": 2,
+    "successCount": 2,
+    "failedCount": 0
+  }
 }
