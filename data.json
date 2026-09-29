@@ -2516,6 +2516,22 @@
       "lastActive": 1790704271503,
       "id": "sub_1790704271503_f2yve",
       "createdAt": 1790704271503
+    },
+    {
+      "endpoint": "https://web.push.apple.com/QOrgTv87ROByHIG_53L3E-dNzvvsTNYSu_nBd9F7QOu2ZpGsteYyhnKnXQcewORmej_rGckNqQZHMUqtqmY6FLL3bdey8sB-fJzu6_4GKgjaT_tUtPNs2_uXwEIWnec9fomGFQlloVwwySkVC1LU_pIk1eWFgpa_QRimnfGHvNg",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BOgpLz-59VM76r6ieGhJRsRrJnPVBL0wvM8EHSJOHRl1Jh4idI4x7otaa6wXyBNNMFRKpidqOziX-iXA-5YZ7_4",
+        "auth": "ojMQF2hhpMEYisllotCJEw"
+      },
+      "device": {
+        "platform": "iOS",
+        "isPWA": true,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0 Mobile/15E148 Safari/604.1"
+      },
+      "lastActive": 1790704341481,
+      "id": "sub_1790704341481_cbg4q",
+      "createdAt": 1790704341481
     }
   ],
   "pushNotificationHistory": [
