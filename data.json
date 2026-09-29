@@ -2489,5 +2489,23 @@
     "publicKey": "BCfx02QZffN5tAJkELOiAyaCnjpLCXfSRVYv3kMAv4a7h3eTcowqxOYGDo04L0zHb-O6CboVXAYNbDgl4W5N8Hs",
     "privateKey": "6sjZdQgL0TWd2UkmRdjkWv5neNkKmOpygSegRRvCiRM",
     "generatedAt": 1790692927862
-  }
+  },
+  "pushSubscriptions": [
+    {
+      "endpoint": "https://web.push.apple.com/QPSksx688P5yoNkhdDdWlNMyo94e1eIQol_7JZBX0R6uTkXahz47MWAvbeEniXwe9myDBGfGCTogvPLk9mmYW0JxLhGTcDB_hvuuNCn0rx3hW9dwWmnmWgffww_ZXXhJldsn9QR_BwThWb0onSxpgQtDgCJ_iyIM2VHo1rpdBB0",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BMX2RqXv03JQQ-sw_dEIV1R7SC_PZ8p9QNAC5KneD_BAZXP0dSg_xCaZpCEET0_O6ngw8RJ2hy98oP6CuujU5sA",
+        "auth": "E4NU7C-PZaRoPgiwj7bA5A"
+      },
+      "device": {
+        "platform": "Mac",
+        "isPWA": true,
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0.1 Safari/605.1.15"
+      },
+      "lastActive": 1790693111867,
+      "id": "sub_1790693111867_n3dl2",
+      "createdAt": 1790693111867
+    }
+  ]
 }
