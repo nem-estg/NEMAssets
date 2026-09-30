@@ -2549,6 +2549,23 @@
       "lastActive": 1790721007587,
       "id": "sub_1790721007587_cun3l",
       "createdAt": 1790721007587
+    },
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/fYkwG9fyxI0:APA91bFpMv2R1a7fgL21V0db-VZsmNatj6I02-HVmppIgQfKpiFLWC_nkMwdUD0nBP7-i8g-ALgE1fp2r9SgPwPjqCAQzK4AixLxZuPoh93-Y-CZgkWkWadt6xnSh5LIITbELCeaOcl4",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BKvQ9cYCUphEvZXBCAMlTzfx1CH_De4O5OnrCDvbt82ijEiHVZ1QkBuudL7QX9opUV04NVnPNq7kBbogGZ15q3A",
+        "auth": "MOROUUDiW9pNr0w7K8KqoQ"
+      },
+      "device": {
+        "platform": "Android",
+        "isPWA": true,
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36",
+        "lang": "pt"
+      },
+      "lastActive": 1790789837804,
+      "id": "sub_1790789837804_f7zh3",
+      "createdAt": 1790789837804
     }
   ],
   "pushNotificationHistory": [
