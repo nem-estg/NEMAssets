@@ -2650,10 +2650,11 @@
       "requireInteraction": false,
       "scheduledFor": "2026-10-01T17:45:00.000Z",
       "scheduledTimestamp": 1790876700000,
-      "status": "pending",
+      "status": "sent",
       "isAuto": false,
       "createdAt": 1790876649160,
-      "updatedAt": 1790876649161
+      "updatedAt": 1790876649161,
+      "sentAt": 1790877415833
     }
   ]
 }
