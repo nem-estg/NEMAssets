@@ -2604,5 +2604,35 @@
   "autoNotifiedKeys": [
     "jantar_open_jantar_de_curso_2026-10-01"
   ],
-  "autoMaintenanceUntil": 1790876760144
+  "autoMaintenanceUntil": 1790841026085,
+  "scheduledPushNotifications": [
+    {
+      "id": "sched_1790876649160_n3zjx",
+      "key": null,
+      "type": "custom",
+      "category": "Agendada",
+      "title": "Informação Jantar de Curso",
+      "body": "Lembramos que os inscritos no jantar de curso de deverão encontrar à frente do restaurante Adega do Mouzinho às 20h e que levem dinheiro trocado.",
+      "titleEn": "Course Dinner Information",
+      "bodyEn": "We remind you that those enrolled in the course dinner should meet in front of the Adega do Mouzinho restaurant at 8 pm and bring change.",
+      "actionTitle": "Ver Agora",
+      "actionTitleEn": "View Now",
+      "url": "/#atividades",
+      "image": null,
+      "icon": "/icon-192.png",
+      "tag": null,
+      "vibrate": [
+        150,
+        80,
+        150
+      ],
+      "requireInteraction": false,
+      "scheduledFor": "2026-10-01T17:45:00.000Z",
+      "scheduledTimestamp": 1790876700000,
+      "status": "pending",
+      "isAuto": false,
+      "createdAt": 1790876649160,
+      "updatedAt": 1790876649161
+    }
+  ]
 }
