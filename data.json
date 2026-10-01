@@ -2111,7 +2111,7 @@
           "salePrice": 2,
           "servingType": "copo",
           "servingVolumeMl": 250,
-          "targetBatchMl": 5250,
+          "targetBatchMl": 4750,
           "notes": "1 Garrafão de 5 Litros (rende aprox. 19 copos)",
           "ingredients": [
             {
@@ -2124,9 +2124,9 @@
             {
               "drinkId": "sumos_pack_6_limao",
               "name": "Sumos Pack 6 Limão",
-              "amount": 1500,
+              "amount": 1000,
               "unit": "ml",
-              "ml": 1500
+              "ml": 1000
             },
             {
               "drinkId": "triplice_seco_1l",
@@ -2449,7 +2449,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1790098175210
+      "updatedAt": 1790866549045
     }
   ],
   "pwaNavItems": [
