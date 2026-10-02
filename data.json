@@ -2661,7 +2661,7 @@
     "merch_24h_sweat_2026-10-02",
     "merch_24h_casaco_2026-10-02"
   ],
-  "autoMaintenanceUntil": 1790942363392,
+  "autoMaintenanceUntil": 1790841026085,
   "scheduledPushNotifications": [
     {
       "id": "sched_1790876649160_n3zjx",
@@ -2691,6 +2691,34 @@
       "createdAt": 1790876649160,
       "updatedAt": 1790876649161,
       "sentAt": 1790877415833
+    },
+    {
+      "id": "sched_1790942251173_v0unu",
+      "key": null,
+      "type": "custom",
+      "category": "Agendada",
+      "title": "Último Dia!",
+      "body": "Não te esqueças de encomendar a tua merch hoje!",
+      "titleEn": "Last Day",
+      "bodyEn": "Don't forget to order your merch today!",
+      "actionTitle": "Ver Agora",
+      "actionTitleEn": "View Now",
+      "url": "/#merch",
+      "image": null,
+      "icon": "/icon-192.png",
+      "tag": null,
+      "vibrate": [
+        150,
+        80,
+        150
+      ],
+      "requireInteraction": false,
+      "scheduledFor": "2026-10-02T12:00:00.000Z",
+      "scheduledTimestamp": 1790942400000,
+      "status": "pending",
+      "isAuto": false,
+      "createdAt": 1790942251173,
+      "updatedAt": 1790942251173
     }
   ]
 }
