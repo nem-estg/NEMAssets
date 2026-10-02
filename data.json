@@ -2727,7 +2727,9 @@
     "jantar_open_jantar_de_curso_2026-10-01",
     "jantar_today_jantar_de_curso_2026-10-01",
     "merch_24h_sweat_2026-10-02",
-    "merch_24h_casaco_2026-10-02"
+    "merch_24h_casaco_2026-10-02",
+    "merch_closed_sweat_2026-10-02",
+    "merch_closed_casaco_2026-10-02"
   ],
   "autoMaintenanceUntil": 1790841026085,
   "scheduledPushNotifications": [
