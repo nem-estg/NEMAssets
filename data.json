@@ -2604,23 +2604,6 @@
   ],
   "pushNotificationHistory": [
     {
-      "id": "notif_1790982057713_8zhy",
-      "title": "🔒 Encomendas de Sweat encerradas!",
-      "body": "Terminou o prazo de encomendas de Sweat. Muito obrigado a todos! Fica atento às datas de entrega na sala do NEM.",
-      "titleEn": "🔒 Orders for Sweat closed!",
-      "bodyEn": "The ordering period for Sweat has ended. Thank you so much everyone! Stay tuned for pickup dates at the NEM room.",
-      "url": "/#merch",
-      "image": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789377882846_955.png",
-      "icon": "/icon-192.png",
-      "tag": "merch-closed-1790982057709",
-      "sentAt": 1790982057713,
-      "sentDate": "2026-10-02T23:00:57.893Z",
-      "recipientsCount": 7,
-      "successCount": 6,
-      "failedCount": 1,
-      "isAuto": true
-    },
-    {
       "id": "sched_1790942251173_v0unu",
       "title": "Último Dia!",
       "body": "Não te esqueças de encomendar a tua merch hoje!",
