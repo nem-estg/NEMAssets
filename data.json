@@ -2602,25 +2602,7 @@
       "createdAt": 1790980820812
     }
   ],
-  "pushNotificationHistory": [
-    {
-      "id": "notif_1790895654460_svi1",
-      "title": "⏳ Últimas 24h! Encomendas de Sweat fecham amanhã!",
-      "body": "Falta apenas 1 dia para encerrarem as encomendas de Sweat. Não deixes para a última hora, encomenda já no site!",
-      "titleEn": "⏳ Last 24h! Orders for Sweat close tomorrow!",
-      "bodyEn": "Only 1 day left to order Sweat. Don't leave it to the last minute, place your order now!",
-      "url": "/#merch",
-      "image": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1789377882846_955.png",
-      "icon": "/icon-192.png",
-      "tag": "merch-24h-1790895654456",
-      "sentAt": 1790895654460,
-      "sentDate": "2026-10-01T23:00:54.667Z",
-      "recipientsCount": 6,
-      "successCount": 5,
-      "failedCount": 1,
-      "isAuto": true
-    }
-  ],
+  "pushNotificationHistory": [],
   "latestBroadcastNotification": {
     "id": "notif_1790982059362_reoy",
     "title": "🔒 Encomendas de Casaco encerradas!",
