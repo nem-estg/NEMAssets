@@ -2636,23 +2636,6 @@
       "successCount": 5,
       "failedCount": 1,
       "isAuto": true
-    },
-    {
-      "id": "sched_1790876649160_n3zjx",
-      "title": "Informação Jantar de Curso",
-      "body": "Lembramos que os inscritos no jantar de curso de deverão encontrar à frente do restaurante Adega do Mouzinho às 20h e que levem dinheiro trocado.",
-      "titleEn": "Course Dinner Information",
-      "bodyEn": "We remind you that those enrolled in the course dinner should meet in front of the Adega do Mouzinho restaurant at 8 pm and bring change.",
-      "url": "/#atividades",
-      "image": null,
-      "icon": "/icon-192.png",
-      "tag": "nem-1790877415838",
-      "sentAt": 1790877415838,
-      "sentDate": "2026-10-01T17:56:56.021Z",
-      "recipientsCount": 6,
-      "successCount": 5,
-      "failedCount": 1,
-      "isAuto": true
     }
   ],
   "latestBroadcastNotification": {
