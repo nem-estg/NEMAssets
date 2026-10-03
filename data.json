@@ -2617,6 +2617,23 @@
       "lastActive": 1791045932533,
       "id": "sub_1791045932533_fiot7",
       "createdAt": 1791045932533
+    },
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/f5sHI2Rinks:APA91bFlYSEvYUS_tf4iaB9BweCRhO7ePCH2znQKjf_nwL6tC7DfKJpoEqQVLH-fi-fheCq8EffO_GPfk7OCu-XejJvalFqRNVeeNllepTC2OtvTpRxkERq5vkgpBab_vfsPWXmaLw_S",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BHEd4of03LvRbxfoFL3PESQSWdWtCSqRKWCWbqIDQcn0KoWG30GdmjjvrmlYimDNSK2fZD6Q7fb16QMo4nivHfA",
+        "auth": "ovgrOmkgc6WKH-us5RaVpw"
+      },
+      "device": {
+        "platform": "Android",
+        "isPWA": true,
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36",
+        "lang": "pt"
+      },
+      "lastActive": 1791049425080,
+      "id": "sub_1791049425080_jt27s",
+      "createdAt": 1791049425080
     }
   ],
   "pushNotificationHistory": [],
