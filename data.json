@@ -2604,23 +2604,6 @@
   ],
   "pushNotificationHistory": [
     {
-      "id": "sched_1790942251173_v0unu",
-      "title": "Último Dia!",
-      "body": "Não te esqueças de encomendar a tua merch hoje!",
-      "titleEn": "Last Day",
-      "bodyEn": "Don't forget to order your merch today!",
-      "url": "/#merch",
-      "image": null,
-      "icon": "/icon-192.png",
-      "tag": "nem-1790942461652",
-      "sentAt": 1790942461652,
-      "sentDate": "2026-10-02T12:01:01.849Z",
-      "recipientsCount": 6,
-      "successCount": 5,
-      "failedCount": 1,
-      "isAuto": true
-    },
-    {
       "id": "notif_1790895654460_svi1",
       "title": "⏳ Últimas 24h! Encomendas de Sweat fecham amanhã!",
       "body": "Falta apenas 1 dia para encerrarem as encomendas de Sweat. Não deixes para a última hora, encomenda já no site!",
