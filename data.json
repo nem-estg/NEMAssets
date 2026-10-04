@@ -2108,7 +2108,7 @@
         {
           "id": "morancona_5l",
           "name": "Morancona 5L",
-          "salePrice": 2,
+          "salePrice": 2.2,
           "servingType": "copo",
           "servingVolumeMl": 250,
           "targetBatchMl": 4750,
@@ -2449,7 +2449,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1790866549045
+      "updatedAt": 1791140301803
     }
   ],
   "pwaNavItems": [
