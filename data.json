@@ -46,41 +46,6 @@
   "customSections": [],
   "libraryCourses": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/Antniom/NEMAssets@main/assets/images/partner_courses/partner_courses_1772747512643_450.svg",
-      "name": "Merendeira da Sé",
-      "addedAt": 1772747513831
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/partner_courses/partner_courses_1788054568675_767.png",
-      "name": "Logo",
-      "addedAt": 1788054569821
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/partner_courses/partner_courses_1788054577032_977.png",
-      "name": "Logo Preenchido",
-      "addedAt": 1788054578356
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/partner_courses/partner_courses_1788054598145_847.png",
-      "name": "Logo Preto",
-      "addedAt": 1788054599195
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/partner_courses/partner_courses_1788054609000_636.png",
-      "name": "Preto Preenchido",
-      "addedAt": 1788054610324
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/partner_courses/partner_courses_1788054642689_420.png",
-      "name": "Logo Branco",
-      "addedAt": 1788054643691
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/partner_courses/partner_courses_1788054658913_100.png",
-      "name": "Branco Preenchido",
-      "addedAt": 1788054659862
-    },
-    {
       "src": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/partner_courses/partner_courses_1789936480203_284.png",
       "name": "Eng. Gestão Industrial",
       "addedAt": 1789930422285
@@ -88,7 +53,7 @@
   ],
   "libraryBars": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/Antniom/NEMAssets@main/assets/images/bars/bars_1772684282949_667.svg",
+      "src": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1791241324172_8113.png",
       "addedAt": 1772684284330,
       "name": "Merendeira da Sé"
     },
@@ -2842,5 +2807,6 @@
       ],
       "updatedAt": "2026-10-04T21:12:33.132Z"
     }
-  ]
+  ],
+  "autoMaintenanceUntil": 1791241443583
 }
