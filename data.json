@@ -53,7 +53,7 @@
   ],
   "libraryBars": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1791288824401_8880.png",
+      "src": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1791305263298_9726.png",
       "addedAt": 1772684284330,
       "name": "Merendeira da Sé"
     },
@@ -2758,5 +2758,5 @@
     }
   ],
   "forms": [],
-  "autoMaintenanceUntil": 1791289699386
+  "autoMaintenanceUntil": 1791305382831
 }
