@@ -2632,6 +2632,23 @@
       },
       "lastActive": 1791229653128,
       "createdAt": 1791229637158
+    },
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/cv5NeMK8w5g:APA91bF8KlWnEkcx2u4Q8AUumw6a0ol4atMGa3kn0vEg0kIpv_p069h5FhBa_-TzH7MXQQziv5mtuAJXTRPAm3CQvgn1CCPqCWNBosS15LZBf27udZairNBe2p6dVCvd8ZZJww-PUzZ2",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BIjJ-pUxyeL96hY86wV4oFB_zmVmJUMrbLAKIZrqKE1rF6UuehAGiKCJyOR-sjiEctn_1VTaHOBSKX_VUfXcVFE",
+        "auth": "EmacJddD1jOo51ctkWe1_A"
+      },
+      "device": {
+        "platform": "Android",
+        "isPWA": true,
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36",
+        "lang": "en"
+      },
+      "lastActive": 1791325685978,
+      "id": "sub_1791325685978_owjy9",
+      "createdAt": 1791325685978
     }
   ],
   "pushNotificationHistory": [
