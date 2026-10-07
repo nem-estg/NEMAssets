@@ -2632,6 +2632,23 @@
       },
       "lastActive": 1791229653128,
       "createdAt": 1791229637158
+    },
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/cFFmuUMixnQ:APA91bHlsITZNqwraS6dMc9n8PkLUQHgvRbMiPUDHEg2CnVjf66MDfWH2tQ8U2BYlepqeJa6FZ8H6ATNHUykhgN-fmOtidsfAhD3ppXllEoXN0boZtSXDtlykIpWUes094vkuWYWFUYe",
+      "expirationTime": null,
+      "keys": {
+        "p256dh": "BMAfpshINep3ch3Fk4U6aUlJ-dreP2s7BZ7hgJKzXhW1nxtdQzY0r37j2Q5aFJ7tlkZmN7BrVfnxtvSv1_aGV7g",
+        "auth": "ETth6oxqUjIJUDLAtIyTZA"
+      },
+      "device": {
+        "platform": "Android",
+        "isPWA": true,
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36",
+        "lang": "en"
+      },
+      "lastActive": 1791413940701,
+      "id": "sub_1791413940701_rytif",
+      "createdAt": 1791413940701
     }
   ],
   "pushNotificationHistory": [
