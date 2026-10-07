@@ -521,7 +521,7 @@
   ],
   "announcementBanner": {
     "active": true,
-    "text": "Sweats e Casacos já disponíveis!",
+    "text": "Não te esqueças de efetuar os pagamentos da Merch hoje até às 23:59h!",
     "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=rYVrU0ikhkGpr-PMrTMCxXndqcIAr3ZDuS9i_dY7NKNURTlVOTM5TDI0SEdKSEdMS1c2VUVFNFZVQS4u&embed=true"
   },
   "academicSupport": {
@@ -2775,5 +2775,6 @@
       "sentAt": 1790942460332
     }
   ],
-  "forms": []
+  "forms": [],
+  "autoMaintenanceUntil": 1791399013886
 }
