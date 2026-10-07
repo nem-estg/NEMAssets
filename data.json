@@ -2636,6 +2636,23 @@
   ],
   "pushNotificationHistory": [
     {
+      "id": "notif_1791398857419_ccx0",
+      "title": "Pagamentos Merch",
+      "body": "Não te esqueças de efetuar o pagamento da Merch de curso por MB-Way através do número 910 775 323\nTens até às 23:59h de hoje!",
+      "titleEn": "Merch Payments",
+      "bodyEn": "Do not forget to make the payment of the course Merch by MB-Way through the number 910 775 323\nYou have until 11:59PM today!",
+      "url": "/#merch",
+      "image": null,
+      "icon": "/icon-192.png",
+      "tag": "nem-1791398857419",
+      "sentAt": 1791398857419,
+      "sentDate": "2026-10-07T18:47:37.776Z",
+      "recipientsCount": 11,
+      "successCount": 10,
+      "failedCount": 1,
+      "isAuto": false
+    },
+    {
       "id": "notif_1791392462485_5eu4",
       "title": "🍻 Amanhã há Convívio de Mecânica!",
       "body": "Prepara-te! Amanhã o curso junta-se para mais um grande Convívio de Mecânica no Tascadentro. Não faltes!",
@@ -2688,21 +2705,21 @@
     }
   ],
   "latestBroadcastNotification": {
-    "id": "notif_1791392462485_5eu4",
-    "title": "🍻 Amanhã há Convívio de Mecânica!",
-    "body": "Prepara-te! Amanhã o curso junta-se para mais um grande Convívio de Mecânica no Tascadentro. Não faltes!",
-    "titleEn": "🍻 Mechanical Gathering tomorrow!",
-    "bodyEn": "Get ready! Tomorrow our course comes together for another great Mechanical Engineering gathering at Tascadentro. Don't miss it!",
-    "url": "/#atividades",
+    "id": "notif_1791398857419_ccx0",
+    "title": "Pagamentos Merch",
+    "body": "Não te esqueças de efetuar o pagamento da Merch de curso por MB-Way através do número 910 775 323\nTens até às 23:59h de hoje!",
+    "titleEn": "Merch Payments",
+    "bodyEn": "Do not forget to make the payment of the course Merch by MB-Way through the number 910 775 323\nYou have until 11:59PM today!",
+    "url": "/#merch",
     "image": null,
     "icon": "/icon-192.png",
-    "tag": "convivio-1day-1791392462482",
-    "sentAt": 1791392462485,
-    "sentDate": "2026-10-07T17:01:02.865Z",
-    "recipientsCount": 12,
-    "successCount": 11,
+    "tag": "nem-1791398857419",
+    "sentAt": 1791398857419,
+    "sentDate": "2026-10-07T18:47:37.776Z",
+    "recipientsCount": 11,
+    "successCount": 10,
     "failedCount": 1,
-    "isAuto": true
+    "isAuto": false
   },
   "autoNotifiedKeys": [
     "jantar_open_jantar_de_curso_2026-10-01",
