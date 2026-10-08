@@ -47,7 +47,7 @@
   "libraryCourses": [
     {
       "src": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/partner_courses/partner_courses_1789936480203_284.png",
-      "name": "Eng. Gestão Industrial",
+      "name": "EGI",
       "addedAt": 1789930422285
     },
     {
@@ -58,7 +58,7 @@
   ],
   "libraryBars": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1791480344915_2625.png",
+      "src": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1791480353901_3845.png",
       "addedAt": 1772684284330,
       "name": "Merendeira da Sé"
     },
@@ -2816,5 +2816,5 @@
     }
   ],
   "forms": [],
-  "autoMaintenanceUntil": 1791480464594
+  "autoMaintenanceUntil": 1791480473462
 }
