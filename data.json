@@ -52,13 +52,13 @@
     },
     {
       "src": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/partner_courses/partner_courses_1791469115498_63.jpg",
-      "name": "IMG_2252",
+      "name": "CF",
       "addedAt": 1791469117090
     }
   ],
   "libraryBars": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1791480358682_8287.png",
+      "src": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1791480362217_9592.png",
       "addedAt": 1772684284330,
       "name": "Merendeira da Sé"
     },
@@ -2816,5 +2816,5 @@
     }
   ],
   "forms": [],
-  "autoMaintenanceUntil": 1791480478230
+  "autoMaintenanceUntil": 1791480481702
 }
