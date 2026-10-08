@@ -49,11 +49,16 @@
       "src": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/partner_courses/partner_courses_1789936480203_284.png",
       "name": "Eng. Gestão Industrial",
       "addedAt": 1789930422285
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/partner_courses/partner_courses_1791469115498_63.jpg",
+      "name": "IMG_2252",
+      "addedAt": 1791469117090
     }
   ],
   "libraryBars": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1791469084728_2426.png",
+      "src": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1791469117313_3621.png",
       "addedAt": 1772684284330,
       "name": "Merendeira da Sé"
     },
@@ -2811,5 +2816,5 @@
     }
   ],
   "forms": [],
-  "autoMaintenanceUntil": 1791469203929
+  "autoMaintenanceUntil": 1791469237098
 }
