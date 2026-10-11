@@ -2354,9 +2354,10 @@
           "isReceived": false,
           "isPaid": false,
           "quantities": {
-            "absinto_milbar": 1
+            "absinto_milbar": 1,
+            "advocat_zimbro": 1
           },
-          "lastUpdated": 1791750767949,
+          "lastUpdated": 1791750768899,
           "updatedBy": "NEM Mobile"
         },
         {
@@ -2421,7 +2422,7 @@
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1791750767949
+      "updatedAt": 1791750768899
     }
   ],
   "pwaNavItems": [
