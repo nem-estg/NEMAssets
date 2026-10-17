@@ -2426,14 +2426,15 @@
             "agua_lisa_24": 1,
             "agua_tonica_pack_4": 2,
             "sumos_pack_6_limao": 2,
-            "gasosa_pack_6": 2
+            "gasosa_pack_6": 2,
+            "sumos_pack_6_laranja": 1
           },
-          "lastUpdated": 1792210047252,
+          "lastUpdated": 1792210055638,
           "updatedBy": "NEM Mobile"
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1792210047252
+      "updatedAt": 1792210055638
     }
   ],
   "pwaNavItems": [
