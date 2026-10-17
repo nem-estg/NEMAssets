@@ -2421,14 +2421,14 @@
             "gin_bombay_original": 1,
             "licor_beirao": 1,
             "licor_de_cafe": 1,
-            "vodka_stolichnaya": 4
+            "vodka_stolichnaya": 7
           },
-          "lastUpdated": 1792209981382,
+          "lastUpdated": 1792209982124,
           "updatedBy": "NEM Mobile"
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1792209981382
+      "updatedAt": 1792209982124
     }
   ],
   "pwaNavItems": [
