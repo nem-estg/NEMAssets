@@ -2420,14 +2420,15 @@
             "absinto_milbar": 1,
             "gin_bombay_original": 1,
             "licor_beirao": 1,
-            "licor_de_cafe": 1
+            "licor_de_cafe": 1,
+            "vodka_stolichnaya": 4
           },
-          "lastUpdated": 1792209908812,
+          "lastUpdated": 1792209981382,
           "updatedBy": "NEM Mobile"
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1792209908812
+      "updatedAt": 1792209981382
     }
   ],
   "pwaNavItems": [
