@@ -2418,14 +2418,15 @@
           "isPaid": false,
           "quantities": {
             "absinto_milbar": 1,
-            "gin_bombay_original": 1
+            "gin_bombay_original": 1,
+            "licor_beirao": 1
           },
-          "lastUpdated": 1792209865022,
+          "lastUpdated": 1792209882154,
           "updatedBy": "NEM Mobile"
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1792209865022
+      "updatedAt": 1792209882154
     }
   ],
   "pwaNavItems": [
