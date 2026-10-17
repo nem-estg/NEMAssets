@@ -2419,14 +2419,15 @@
           "quantities": {
             "absinto_milbar": 1,
             "gin_bombay_original": 1,
-            "licor_beirao": 1
+            "licor_beirao": 1,
+            "licor_de_cafe": 1
           },
-          "lastUpdated": 1792209882154,
+          "lastUpdated": 1792209908812,
           "updatedBy": "NEM Mobile"
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1792209882154
+      "updatedAt": 1792209908812
     }
   ],
   "pwaNavItems": [
