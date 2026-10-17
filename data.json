@@ -2425,14 +2425,14 @@
             "whisky_grants": 1,
             "agua_lisa_24": 1,
             "agua_tonica_pack_4": 2,
-            "sumos_pack_6_limao": 1
+            "sumos_pack_6_limao": 2
           },
-          "lastUpdated": 1792210039858,
+          "lastUpdated": 1792210040359,
           "updatedBy": "NEM Mobile"
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1792210039858
+      "updatedAt": 1792210040359
     }
   ],
   "pwaNavItems": [
