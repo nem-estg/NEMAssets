@@ -2416,13 +2416,15 @@
           "notes": "",
           "isReceived": false,
           "isPaid": false,
-          "quantities": {},
-          "lastUpdated": 1788808026903,
-          "updatedBy": "Admin"
+          "quantities": {
+            "absinto_milbar": 1
+          },
+          "lastUpdated": 1792209820503,
+          "updatedBy": "NEM Mobile"
         }
       ],
       "createdAt": 1788808026903,
-      "updatedAt": 1791750768899
+      "updatedAt": 1792209820503
     }
   ],
   "pwaNavItems": [
