@@ -30,7 +30,7 @@
   "sections": {
     "about": true,
     "members": true,
-    "merch": true,
+    "merch": false,
     "calendar": true,
     "academic": true,
     "instagram": true
@@ -58,7 +58,7 @@
   ],
   "libraryBars": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1791480362217_9592.png",
+      "src": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1795551854162_5830.png",
       "addedAt": 1772684284330,
       "name": "Merendeira da Sé"
     },
@@ -2848,5 +2848,5 @@
     }
   ],
   "forms": [],
-  "autoMaintenanceUntil": 1795551931743
+  "autoMaintenanceUntil": 1795551973297
 }
