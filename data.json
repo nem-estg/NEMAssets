@@ -2847,6 +2847,141 @@
       "sentAt": 1790942460332
     }
   ],
-  "forms": [],
+  "forms": [
+    {
+      "id": "form_1795557707013_fi2l1",
+      "title": "Encomenda de Casaco e Camisola Oficial NEM",
+      "coverImage": null,
+      "description": "Formulário oficial para encomenda do casaco e camisola de curso de Engenharia Mecânica. O pagamento deve ser efetuado por MB WAY ou presencialmente na sala do NEM.",
+      "status": "active",
+      "scheduleStart": null,
+      "scheduleEnd": null,
+      "closedMessage": "As encomendas para este lote de vestuário encontram-se encerradas.",
+      "confirmationMessage": "A tua encomenda foi registada com sucesso! Efetua o pagamento por MB WAY para validares a tua reserva.",
+      "maxSubmissions": 0,
+      "preventDuplicates": false,
+      "passwordProtected": false,
+      "password": "",
+      "paymentInstructions": {
+        "enabled": true,
+        "mbwayPhone": "912 345 678",
+        "iban": "PT50 0000 0000 0000 0000 0000 0",
+        "notes": "Indica o teu primeiro e último nome no descritivo da transferência MB WAY."
+      },
+      "questions": [
+        {
+          "id": "q_identificacao_1795557698742_0",
+          "type": "text",
+          "label": "Identificação (Nome, nº de estudante, nº de telemóvel)",
+          "helpText": "Ex: João Silva, 2231456, 912345678",
+          "required": true
+        },
+        {
+          "id": "q_opcao_artigo_1795557698742_1",
+          "type": "radio",
+          "label": "Qual das opções é que desejas obter?",
+          "required": true,
+          "options": [
+            {
+              "id": "casaco",
+              "label": "Casaco de curso (35€)"
+            },
+            {
+              "id": "camisola",
+              "label": "Camisola de curso (30€)"
+            },
+            {
+              "id": "ambos",
+              "label": "Ambos (Casaco + Camisola) (65€)"
+            }
+          ]
+        },
+        {
+          "id": "q_tamanho_casaco_1795557698742_2",
+          "type": "select",
+          "label": "Tamanho do casaco",
+          "helpText": "Valor: 35€ (Se escolheste casaco ou ambos)",
+          "priceTag": "35€",
+          "required": false,
+          "options": [
+            {
+              "id": "nao_pretendo",
+              "label": "Não pretendo casaco"
+            },
+            {
+              "id": "xs",
+              "label": "XS"
+            },
+            {
+              "id": "s",
+              "label": "S"
+            },
+            {
+              "id": "m",
+              "label": "M"
+            },
+            {
+              "id": "l",
+              "label": "L"
+            },
+            {
+              "id": "xl",
+              "label": "XL"
+            },
+            {
+              "id": "xxl",
+              "label": "XXL"
+            }
+          ]
+        },
+        {
+          "id": "q_tamanho_camisola_1795557698742_3",
+          "type": "select",
+          "label": "Tamanho da camisola",
+          "helpText": "Valor: 30€ (Se escolheste camisola ou ambos)",
+          "priceTag": "30€",
+          "required": false,
+          "options": [
+            {
+              "id": "nao_pretendo",
+              "label": "Não pretendo camisola"
+            },
+            {
+              "id": "xs",
+              "label": "XS"
+            },
+            {
+              "id": "s",
+              "label": "S"
+            },
+            {
+              "id": "m",
+              "label": "M"
+            },
+            {
+              "id": "l",
+              "label": "L"
+            },
+            {
+              "id": "xl",
+              "label": "XL"
+            },
+            {
+              "id": "xxl",
+              "label": "XXL"
+            }
+          ]
+        },
+        {
+          "id": "q_comprovativo_mbway_1795557698742_4",
+          "type": "file",
+          "label": "Comprovativo de Pagamento MB WAY",
+          "helpText": "Anexa aqui a captura de ecrã do comprovativo MB WAY para validação mais rápida",
+          "required": false
+        }
+      ],
+      "updatedAt": "2026-11-24T22:01:47.013Z"
+    }
+  ],
   "autoMaintenanceEnabled": false
 }
