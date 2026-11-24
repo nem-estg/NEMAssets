@@ -419,8 +419,8 @@
     {
       "type": "custom",
       "title": "KARTS",
-      "date": "A anunciar",
-      "dateISO": "",
+      "date": "24/11/2025",
+      "dateISO": "2025-11-24T15:00",
       "status": "EM AGENDAMENTO",
       "location": "Kartódromo",
       "formUrl": "",
@@ -432,7 +432,7 @@
       "bgImage": "https://cdn.jsdelivr.net/gh/Antniom/NEMAssets@main/assets/images/events/events_1772749349754_814.jpg",
       "tokenInfo": "",
       "description": "",
-      "dateISOEnd": ""
+      "dateISOEnd": "2025-11-24T22:00"
     },
     {
       "type": "rc",
@@ -2847,5 +2847,6 @@
       "sentAt": 1790942460332
     }
   ],
-  "forms": []
+  "forms": [],
+  "autoMaintenanceUntil": 1795551931743
 }
