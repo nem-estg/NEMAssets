@@ -526,7 +526,7 @@
   ],
   "announcementBanner": {
     "active": true,
-    "text": "Não te esqueças de efetuar os pagamentos da Merch hoje até às 23:59h!",
+    "text": "",
     "url": ""
   },
   "academicSupport": {
@@ -2848,5 +2848,5 @@
     }
   ],
   "forms": [],
-  "autoMaintenanceUntil": 1791480481702
+  "autoMaintenanceUntil": 1795551286112
 }
