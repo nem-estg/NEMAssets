@@ -522,6 +522,15 @@
       "weekDates": "",
       "formIsEmbed": false,
       "formRaw": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=rYVrU0ikhkGpr-PMrTMCxXndqcIAr3ZDuS9i_dY7NKNUMEpYUTQ5OVU1T0MxMzJDRTBZWU1XWTZXRC4u"
+    },
+    {
+      "type": "regular",
+      "title": "Novo Evento",
+      "date": "A anunciar",
+      "dateISO": "",
+      "status": "A anunciar",
+      "location": "Local a definir",
+      "formUrl": ""
     }
   ],
   "announcementBanner": {
@@ -2847,5 +2856,6 @@
       "sentAt": 1790942460332
     }
   ],
-  "forms": []
+  "forms": [],
+  "autoMaintenanceEnabled": false
 }
