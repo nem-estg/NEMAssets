@@ -558,11 +558,11 @@
       "date": "15/12/2026",
       "dateISO": "2026-12-15T22:00",
       "status": "A ANUNCIAR",
-      "location": "Tasca Dentro",
+      "location": "Tascadentro",
       "formUrl": "",
       "nemLogo": "Vetorizado.svg",
       "guestLogo": "",
-      "barLogo": "",
+      "barLogo": "https://cdn.jsdelivr.net/gh/antniom/NEMAssets@main/assets/images/bars/bars_1788483362126_549.png",
       "tokenInfo": "1 senha - 2,5€ - 3 imperiais/shots da casa ou 2 sangrias/sidras/shots ou 1 bifana",
       "price": "",
       "weekDates": "",
@@ -2914,5 +2914,5 @@
   ],
   "forms": [],
   "autoMaintenanceEnabled": true,
-  "autoMaintenanceUntil": 1795647912147
+  "autoMaintenanceUntil": 1795647914936
 }
