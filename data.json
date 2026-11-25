@@ -31,7 +31,7 @@
     "about": true,
     "members": true,
     "merch": false,
-    "calendar": false,
+    "calendar": true,
     "academic": true,
     "instagram": true
   },
@@ -2914,5 +2914,5 @@
   ],
   "forms": [],
   "autoMaintenanceEnabled": true,
-  "autoMaintenanceUntil": 1795648195586
+  "autoMaintenanceUntil": 1795648815211
 }
