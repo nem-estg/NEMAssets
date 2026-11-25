@@ -553,13 +553,22 @@
       "formRaw": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=rYVrU0ikhkGpr-PMrTMCxXndqcIAr3ZDuS9i_dY7NKNUMEpYUTQ5OVU1T0MxMzJDRTBZWU1XWTZXRC4u"
     },
     {
-      "type": "regular",
-      "title": "Novo Evento",
+      "type": "convivio",
+      "title": "Convívio",
       "date": "A anunciar",
-      "dateISO": "",
+      "dateISO": "2026-11-25T22:00",
       "status": "A anunciar",
-      "location": "Local a definir",
-      "formUrl": ""
+      "location": "Merendeira da Sé",
+      "formUrl": "",
+      "nemLogo": "Vetorizado.svg",
+      "guestLogo": "",
+      "barLogo": "",
+      "tokenInfo": "1 senha - 2,5€ - 3 imperiais/shots da casa ou 2 sangrias/sidras/shots ou 1 bifana",
+      "price": "",
+      "weekDates": "",
+      "cardColor": "#1a1a2e",
+      "bgImage": "",
+      "dateISOEnd": "2026-11-26T02:30"
     }
   ],
   "announcementBanner": {
@@ -2887,5 +2896,5 @@
   ],
   "forms": [],
   "autoMaintenanceEnabled": true,
-  "autoMaintenanceUntil": 1795647824559
+  "autoMaintenanceUntil": 1795647827731
 }
