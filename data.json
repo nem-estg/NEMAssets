@@ -571,13 +571,22 @@
       "dateISOEnd": "2026-12-16T02:30"
     },
     {
-      "type": "regular",
-      "title": "Novo Evento",
+      "type": "convivio",
+      "title": "Convívio",
       "date": "A anunciar",
-      "dateISO": "",
+      "dateISO": "2026-11-25T22:00",
       "status": "A anunciar",
-      "location": "Local a definir",
-      "formUrl": ""
+      "location": "Merendeira da Sé",
+      "formUrl": "",
+      "nemLogo": "Vetorizado.svg",
+      "guestLogo": "",
+      "barLogo": "",
+      "tokenInfo": "1 senha - 2,5€ - 3 imperiais/shots da casa ou 2 sangrias/sidras/shots ou 1 bifana",
+      "price": "",
+      "weekDates": "",
+      "cardColor": "#1a1a2e",
+      "bgImage": "",
+      "dateISOEnd": "2026-11-26T02:30"
     }
   ],
   "announcementBanner": {
@@ -2905,5 +2914,5 @@
   ],
   "forms": [],
   "autoMaintenanceEnabled": true,
-  "autoMaintenanceUntil": 1795647889368
+  "autoMaintenanceUntil": 1795647891841
 }
