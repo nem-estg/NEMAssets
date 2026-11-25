@@ -557,7 +557,7 @@
       "title": "Convívio",
       "date": "A anunciar",
       "dateISO": "2026-11-25T22:00",
-      "status": "A anunciar",
+      "status": "A ANUNCIAR",
       "location": "Merendeira da Sé",
       "formUrl": "",
       "nemLogo": "Vetorizado.svg",
@@ -2896,5 +2896,5 @@
   ],
   "forms": [],
   "autoMaintenanceEnabled": true,
-  "autoMaintenanceUntil": 1795647827731
+  "autoMaintenanceUntil": 1795647830291
 }
