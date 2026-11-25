@@ -557,7 +557,7 @@
       "title": "CONVÍVIO",
       "date": "17/12/2026",
       "dateISO": "2026-12-17T22:00",
-      "status": "A ANUNCIAR",
+      "status": "MARCADO",
       "location": "Tascadentro",
       "formUrl": "",
       "nemLogo": "Vetorizado.svg",
@@ -2914,5 +2914,5 @@
   ],
   "forms": [],
   "autoMaintenanceEnabled": true,
-  "autoMaintenanceUntil": 1795647928090
+  "autoMaintenanceUntil": 1795647934752
 }
