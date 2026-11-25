@@ -30,7 +30,7 @@
   "sections": {
     "about": true,
     "members": true,
-    "merch": false,
+    "merch": true,
     "calendar": true,
     "academic": true,
     "instagram": true
@@ -2914,5 +2914,5 @@
   ],
   "forms": [],
   "autoMaintenanceEnabled": true,
-  "autoMaintenanceUntil": 1795648820215
+  "autoMaintenanceUntil": 1795648823314
 }
