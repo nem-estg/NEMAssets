@@ -40,8 +40,8 @@
     "calendar",
     "academic",
     "members",
-    "merch",
-    "instagram"
+    "instagram",
+    "merch"
   ],
   "customSections": [],
   "libraryCourses": [
@@ -2914,5 +2914,5 @@
   ],
   "forms": [],
   "autoMaintenanceEnabled": true,
-  "autoMaintenanceUntil": 1795648881237
+  "autoMaintenanceUntil": 1795648884113
 }
