@@ -554,7 +554,7 @@
     },
     {
       "type": "convivio",
-      "title": "Convívio",
+      "title": "CONVÍVIO",
       "date": "A anunciar",
       "dateISO": "2026-11-25T22:00",
       "status": "A ANUNCIAR",
@@ -2896,5 +2896,5 @@
   ],
   "forms": [],
   "autoMaintenanceEnabled": true,
-  "autoMaintenanceUntil": 1795647835542
+  "autoMaintenanceUntil": 1795647867547
 }
