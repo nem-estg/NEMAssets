@@ -569,6 +569,15 @@
       "cardColor": "#1a1a2e",
       "bgImage": "",
       "dateISOEnd": "2026-12-16T02:30"
+    },
+    {
+      "type": "regular",
+      "title": "Novo Evento",
+      "date": "A anunciar",
+      "dateISO": "",
+      "status": "A anunciar",
+      "location": "Local a definir",
+      "formUrl": ""
     }
   ],
   "announcementBanner": {
@@ -2896,5 +2905,5 @@
   ],
   "forms": [],
   "autoMaintenanceEnabled": true,
-  "autoMaintenanceUntil": 1795647880714
+  "autoMaintenanceUntil": 1795647889368
 }
