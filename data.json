@@ -562,7 +562,7 @@
       "formUrl": "",
       "nemLogo": "Vetorizado.svg",
       "guestLogo": "",
-      "barLogo": "",
+      "barLogo": "https://cdn.jsdelivr.net/gh/nem-estg/NEMAssets@main/assets/images/merch/merch_1795551863362_8019.png",
       "tokenInfo": "1 senha - 2,5€ - 3 imperiais/shots da casa ou 2 sangrias/sidras/shots ou 1 bifana",
       "price": "",
       "weekDates": "",
@@ -2896,5 +2896,5 @@
   ],
   "forms": [],
   "autoMaintenanceEnabled": true,
-  "autoMaintenanceUntil": 1795647830291
+  "autoMaintenanceUntil": 1795647832846
 }
