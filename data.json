@@ -558,7 +558,7 @@
       "date": "15/12/2026",
       "dateISO": "2026-12-15T22:00",
       "status": "A ANUNCIAR",
-      "location": "Merendeira da Sé",
+      "location": "Tasca Dentro",
       "formUrl": "",
       "nemLogo": "Vetorizado.svg",
       "guestLogo": "",
@@ -2914,5 +2914,5 @@
   ],
   "forms": [],
   "autoMaintenanceEnabled": true,
-  "autoMaintenanceUntil": 1795647891841
+  "autoMaintenanceUntil": 1795647906155
 }
