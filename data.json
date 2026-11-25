@@ -555,8 +555,8 @@
     {
       "type": "convivio",
       "title": "CONVÍVIO",
-      "date": "15/12/2026",
-      "dateISO": "2026-12-15T22:00",
+      "date": "17/12/2026",
+      "dateISO": "2026-12-17T22:00",
       "status": "A ANUNCIAR",
       "location": "Tascadentro",
       "formUrl": "",
@@ -568,7 +568,7 @@
       "weekDates": "",
       "cardColor": "#1a1a2e",
       "bgImage": "",
-      "dateISOEnd": "2026-12-16T02:30"
+      "dateISOEnd": "2026-12-18T02:30"
     },
     {
       "type": "convivio",
@@ -2914,5 +2914,5 @@
   ],
   "forms": [],
   "autoMaintenanceEnabled": true,
-  "autoMaintenanceUntil": 1795647914936
+  "autoMaintenanceUntil": 1795647928090
 }
