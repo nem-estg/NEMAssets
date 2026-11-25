@@ -37,9 +37,9 @@
   },
   "sectionOrder": [
     "calendar",
+    "about",
     "merch",
     "academic",
-    "about",
     "members",
     "instagram"
   ],
@@ -2914,5 +2914,5 @@
   ],
   "forms": [],
   "autoMaintenanceEnabled": true,
-  "autoMaintenanceUntil": 1795648893560
+  "autoMaintenanceUntil": 1795648898424
 }
