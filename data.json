@@ -75,7 +75,6 @@
   ],
   "instagramConfig": {
     "mode": "auto",
-    "token": "",
     "autoPosts": [
       {
         "id": "4003347114695445097",
@@ -109,8 +108,6 @@
       }
     ],
     "lastFetched": "25/11/2026 às 13:38",
-    "appSecret": "3f1e09c1b4d0ad861f3021b0a34fd273",
-    "appId": "1466754955505744",
     "syncSource": "public-profile"
   },
   "githubUploadOwner": "Antniom",
@@ -554,6 +551,15 @@
       "weekDates": "",
       "formIsEmbed": false,
       "formRaw": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=rYVrU0ikhkGpr-PMrTMCxXndqcIAr3ZDuS9i_dY7NKNUMEpYUTQ5OVU1T0MxMzJDRTBZWU1XWTZXRC4u"
+    },
+    {
+      "type": "regular",
+      "title": "Novo Evento",
+      "date": "A anunciar",
+      "dateISO": "",
+      "status": "A anunciar",
+      "location": "Local a definir",
+      "formUrl": ""
     }
   ],
   "announcementBanner": {
@@ -2881,5 +2887,5 @@
   ],
   "forms": [],
   "autoMaintenanceEnabled": true,
-  "autoMaintenanceUntil": 1795645676889
+  "autoMaintenanceUntil": 1795647824559
 }
