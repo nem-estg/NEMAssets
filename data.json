@@ -69,17 +69,49 @@
     }
   ],
   "instagramPosts": [
-    "https://www.instagram.com/p/Ddo2eYNthdv/",
-    "https://www.instagram.com/p/Ddi5ypVtpDp/",
-    "https://www.instagram.com/p/DdUlFKbDdRt/"
+    "https://www.instagram.com/p/DeOvv18Acpp/",
+    "https://www.instagram.com/p/DeH_CleN0o6/",
+    "https://www.instagram.com/p/DeCg0AyjT9n/"
   ],
   "instagramConfig": {
     "mode": "auto",
     "token": "",
-    "autoPosts": [],
-    "lastFetched": "",
+    "autoPosts": [
+      {
+        "id": "4003347114695445097",
+        "shortcode": "DeOvv18Acpp",
+        "caption": "Está na hora de aproveitar a última noite antes da tão esperada RC! 🔥\n\nHOJE junta-te a nós para uma noite de, convívio, bebida e, claro, muita diversão! 🍻✨\n\n📅 08 outubro\n🕙 22H — 01H\n📍 Tasca Dentro\n\nSe é para fechar esta fase em grande, é juntos! ❤️‍🔥\n\nNão faltes!! Vemo-nos lá🫣",
+        "media_type": "IMAGE",
+        "media_url": "/api/instagram?action=image&code=DeOvv18Acpp",
+        "thumbnail_url": "/api/instagram?action=image&code=DeOvv18Acpp",
+        "permalink": "https://www.instagram.com/p/DeOvv18Acpp/",
+        "timestamp": "2026-10-08T12:00:06.000Z"
+      },
+      {
+        "id": "4001444048546515514",
+        "shortcode": "DeH_CleN0o6",
+        "caption": "Vais cair na armadilha? 🍻\nAmanhã dia 6, o convívio é com Mecânica e CF na Merendeira da Sé! Traz sede e boa disposição e vem festejar connosco!!\nAté já 👋",
+        "media_type": "IMAGE",
+        "media_url": "/api/instagram?action=image&code=DeH_CleN0o6",
+        "thumbnail_url": "/api/instagram?action=image&code=DeH_CleN0o6",
+        "permalink": "https://www.instagram.com/p/DeH_CleN0o6/",
+        "timestamp": "2026-10-05T19:45:45.000Z"
+      },
+      {
+        "id": "3999903730807684967",
+        "shortcode": "DeCg0AyjT9n",
+        "caption": "Aconteceu, malta.\nA Letícia finalmente fartou-se de receber mensagens a perguntar “Olá Letícia tudo bem? Ainda dá para encomendar a merch?” e nós tivemos de resolver o assunto antes que ela se passasse da cabeça.\nA partir de agora já não há desculpas para deixarem passar prazos, jantares ou novidades do curso. A nossa app já envia notificações diretamente para o telemóvel.\nArrastem para o lado para ver como se faz, tanto para iPhone como para Android:\n1- Adicionem o site ao ecrã principal \n2- Abram o atalho e ativem as notificações \nDemora 30 segundos e poupam a paciência da Letícia. Link na bio.",
+        "media_type": "CAROUSEL_ALBUM",
+        "media_url": "/api/instagram?action=image&code=DeCg0AyjT9n",
+        "thumbnail_url": "/api/instagram?action=image&code=DeCg0AyjT9n",
+        "permalink": "https://www.instagram.com/p/DeCg0AyjT9n/",
+        "timestamp": "2026-10-03T16:41:43.000Z"
+      }
+    ],
+    "lastFetched": "25/11/2026 às 13:38",
     "appSecret": "3f1e09c1b4d0ad861f3021b0a34fd273",
-    "appId": "1466754955505744"
+    "appId": "1466754955505744",
+    "syncSource": "public-profile"
   },
   "githubUploadOwner": "Antniom",
   "githubUploadRepo": "NEMAssets",
