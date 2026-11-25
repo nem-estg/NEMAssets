@@ -2880,5 +2880,6 @@
     }
   ],
   "forms": [],
-  "autoMaintenanceEnabled": false
+  "autoMaintenanceEnabled": true,
+  "autoMaintenanceUntil": 1795645671882
 }
